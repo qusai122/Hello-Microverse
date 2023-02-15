@@ -39,7 +39,10 @@
 # 📖 Hello Microverse <a name="about-project"></a>
 
 > 
-**Hello Microverse** is a...
+**Hello Microverse** is my first project with GitHub It doesn't have that much contact,
+but it is the first step for me to be a full stack developer.
+basically, It's my hello world page.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -145,7 +148,7 @@ but it's not done yet
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
 ## :busts_in_silhouette: Authors <a name="authors"></a>
-:bust_in_silhouette: **Gladwin Tshepo Ramantso**
+:bust_in_silhouette: **Qusai Issa**
 - GitHub: [@qusai122](https://github.com/qusai122)
 - LinkedIn: [Qusai Issa](https://www.linkedin.com/in/qusai-issa-ab5a59156/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
