@@ -147,37 +147,56 @@ GitHub Pages
 but it's not done yet
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
-## :busts_in_silhouette: Authors <a name="authors"></a>
-:bust_in_silhouette: **Qusai Issa**
+
+👤 **Author**
+  Qusai Issa
 - GitHub: [@qusai122](https://github.com/qusai122)
 - LinkedIn: [Qusai Issa](https://www.linkedin.com/in/qusai-issa-ab5a59156/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FUTURE FEATURES -->
-## :telescope: Future Features <a name="future-features"></a>
+
+## 🔭 Future Features <a name="future-features"></a>
+
 - [ ] **making it responsive**
 - [ ] **Adding Animation**
 - [ ] **Making it dynamic**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
-## :handshake: Contributing <a name="contributing"></a>
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [https://github.com/qusai122/](../../issues/).
+
+Feel free to check the [issues page](../../issues/).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- SUPPORT -->
-## :star:️ Show your support <a name="support"></a>
-If you like this project please follow me on github & twitter and also connect on Linkedin.
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ACKNOWLEDGEMENTS -->
-## :pray: Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse for this exercise.
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- FAQ (optional) -->
-## :question: FAQ (OPTIONAL) <a name="faq"></a>
-- **[Question_1]**
-  - [Answer_1]
-- **[Question_2]**
-  - [Answer_2]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
